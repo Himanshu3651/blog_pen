@@ -32,7 +32,7 @@ const Nav = () => {
           height={60}
           className='object-contain'
         />
-        <p className='logo_text'>A  hghgCreative Pen</p>
+        <p className='logo_text'>A  Creative Pen</p>
         
       </Link>
 

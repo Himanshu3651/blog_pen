@@ -9,9 +9,9 @@ const Home= () => {
             {<span className="orange_gradient text-center">Publish your passions, your way</span> }
         </h1>
         <p className="desc text-center">
-           . COME FOR WHAT YOU LOVE  heyyyyyy.
+           . COME FOR WHAT YOU LOVE  .
            <br/>
-          . STAY FOR WHAT YOU DISCOVER . hhhhh
+          . STAY FOR WHAT YOU DISCOVER . 
         </p>
         <Feed/>
 
